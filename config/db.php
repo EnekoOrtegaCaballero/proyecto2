@@ -8,7 +8,7 @@ class Database{
         $server = '82.223.113.64';
         $username = 'qafq855';
         $database = 'qafq855';
-        $password = 'Baloo1Trufa2';
+        $password = '**********';
     
         $db = new mysqli($server, $username, $password, $database);
 
